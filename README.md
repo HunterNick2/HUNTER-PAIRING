@@ -1,4 +1,4 @@
-# Dreaded-Pairing
+# HUNTER-Pairing
 Connecting to WhatsApp socket using a pairing code.
 
 
@@ -10,9 +10,9 @@ pkg install git
 
 pkg install ffmpeg
 
-git clone https://github.com/Fortunatusmokaya/DREADED-PAIRING
+git clone https://github.com/HunterNick2/HUNTER-PAIRING
 
-cd DREADED-PAIRING
+cd HUNTER-PAIRING
 
 npm install
 
